@@ -39,3 +39,9 @@ Data visualization & geospatial mapping
 Research-to-application transition (concept → prototype → demo)
 
 
+<img width="927" height="409" alt="Qnet" src="https://github.com/user-attachments/assets/46dffc60-f208-4622-8e48-4d4fae4ca04a" />
+
+## 🚀 Preview
+
+<img width="1823" height="827" alt="Screenshot 2025-08-31 160149" src="https://github.com/user-attachments/assets/b5bb6c19-4d00-4242-90de-d4b3ecec6c94" />
+
